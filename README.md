@@ -1,4 +1,3 @@
 # hello-world
-This is a simple Hello World project to implement GitHub
-Things are just better this way. 
+This is a simple Hello World project to learn GitHub
 i mean, wow.
